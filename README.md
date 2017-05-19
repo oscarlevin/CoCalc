@@ -3,7 +3,9 @@ The Calculus Companion
 
 An open textbook to support students taking calculus by providing reminders of prerequisite material.
 
+## Project status
 
+This book is in the very early stages of development.  I have previously written a number of activities (worksheets) for students in a course we offer at the University of Northern Colorado called Supplemental Calculus.  This summer I plan on expanding on these to get a first rough draft by the start of Fall 2017.
 
 ## Compilation Instructions
 
